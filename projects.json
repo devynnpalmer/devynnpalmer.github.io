@@ -10,5 +10,17 @@
     "desc": "A Pokemon guessing game made in Android Studio",
     "if": true,
     "year": 2016
-  }
+  },
+  {
+    "name":"Escape",
+    "desc": "A first person \"escape-the-building\" game created with Unreal Engine 4",
+    "if": true,
+    "year": 2016
+  },
+  {
+    "name":"HCKR_NWS",
+    "desc": "A Hacker News reader app created in Android Studio",
+    "if": true,
+    "year": 2016
+  },
 ]
